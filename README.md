@@ -133,7 +133,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Apr 23 Tue class: Course summary
 
 ### Week 15
-- May 5 Fri: `Project 6 due` (Tentative)
+- May 7 Sunday: `Project 6 due` 
 
 ## Project
 
