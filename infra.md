@@ -1,5 +1,5 @@
 # Infrastructure
-This page contains helpful information pertaining to setting up, completing and submtting problem sets required for CS-145. We have divided it into the following sections for your convenience:
+This page contains helpful information about setting up, completing and submitting problem sets required for CS-145. We have divided it into the following sections for your convenience:
 
 - [Infrastructure](#infrastructure)
   - [Installing a virtual machine monitor](#installing-a-virtual-machine-monitor)
@@ -30,9 +30,9 @@ called <a href="https://www.vmware.com/products/workstation-player.html">VMware 
 academic license to use one for the duration of the class. You can also use a
 freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p> 
 
-<p>To obtain VMware:</p>
+<p>To obtain VMware: Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
+</p>
 
-<li>Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
 
 <li><p>If you’re installing Fusion:</p>
 
