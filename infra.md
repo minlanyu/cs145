@@ -32,29 +32,7 @@ freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">V
 
 <p>To obtain VMware:</p>
 
-<ol>
-<li><p>Fill out <a href="https://goo.gl/F3z8Sb">this Google form</a> with your name, e-mail,
-HUID, etc, requesting the latest version of VMware for your computer
-platform (VMware Fusion for Mac OS X, VMware Workstation for Windows, or
-(rarely) VMware Workstation for Linux). You will receive an account at the
-VMware Software Center once your request is approved. <strong>This step is manual
-and it may take up to one business day for you to receive a response.</strong></p>
-
-<p>Your account at the VMware Software Center will have user name and initial
-email address both set to your Harvard email address.</p></li>
-
-<li><p>The VMware Software Center is set up like a store. On the “store front”
-page, select the latest version of the VMware product you need for your
-platform (Fusion or Workstation for Windows). If you see both a free and a
-non-free offering of the product, choose the free one.</p></li>
-
-<li><p>Click the Add to Cart button, then proceed through the check-out process
-until you reach a screen with a Start Download button. Click the Start
-Download button to download the installer.</p></li>
-
-<li><p>On the store front page, click on Your Account/Orders under the Hello,
-&lt;your email&gt; menu. Click on View Details to see your Serial Number or
-Product Key. You will need that information to run VMware.</p></li>
+Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
 
 <li><p>If you’re installing Fusion:</p>
 
