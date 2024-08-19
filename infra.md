@@ -32,7 +32,7 @@ freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">V
 
 <p>To obtain VMware:</p>
 
-Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
+<li>Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
 
 <li><p>If you’re installing Fusion:</p>
 
@@ -72,10 +72,6 @@ Wizard screen, click on License, and paste the license key that you
 got from the VMware store. Then click Finish.</li>
 </ol></li>
 </ol>
-
-### M-series Mac users
-
-For M-series Mac users, unfortunately the solutions above do not support your M-series due to the difference in architecture. We recommend [UTM](https://mac.getutm.app/), an open-source free VMM that supports M-series.
 
 
 ## Setting up the VM environment
