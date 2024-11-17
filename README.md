@@ -115,8 +115,8 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Apr 20 Sun: `Project 5 due`
 
 ### Week 13 
-* Apr 22 Tue class: Ethics
-* Apr 24 Thu class: Application: Data center applications
+* Apr 22 Tue class: Application: Data center applications
+* Apr 24 Thu class: Ethics
 * Apr 27 Sun: `Project 5 grading out`
 
 ### Week 14 
