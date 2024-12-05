@@ -104,11 +104,11 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 11 
 * Apr 8 Tue class: Data center TCP; TCP fairness (K&R 3.7.1); SDN in the control plane (K&R 4.4, 5.5); 
   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Apr 10 Thu class: Guest lecture by Changhoon Kim (Google)  
+* Apr 10 Thu class: SDN in the data plane; Wide area: Traffic engineering; Application: Internet application HTTP and DNS; 
 * Apr 13 Sun: `Project 4 grading out`
 
 ### Week 12 
-* Apr 15 Tue class: SDN in the data plane; Wide area: Traffic engineering; Application: Internet application HTTP and DNS
+* Apr 15 Tue class: Ethics (Minlan travel)
 * Apr 17 Thu class: Application: Data center applications
 * Apr 17 Thu: `Project 6 released`
 * Apr 18 Fri section: Final project suggestions 
@@ -116,7 +116,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 
 ### Week 13 
 * Apr 22 Tue class: Application: Data center applications
-* Apr 24 Thu class: Ethics
+* Apr 24 Thu class: Reseaerch topics presented by PhD students (Minlan travel)
 * Apr 27 Sun: `Project 5 grading out`
 
 ### Week 14 
