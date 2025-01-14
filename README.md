@@ -7,9 +7,9 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11 am
-- Lecture location: SEC 2.118
+- Lecture location: SEC 1.402
 - Section time: Fridays 2:15-3:15 pm every other week (available on demand for extension students). Please see the syllabus below for the actual dates for sections.
-- Section location: SEC 2.118
+- Section location: SEC 1.402
 - Minlan Office hours: Tue 11-12, SEC 4.415
 - TF and office hours:
   * Howard Huang: howardhuang@college.harvard.edu
