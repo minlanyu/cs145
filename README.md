@@ -6,11 +6,11 @@
 This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, programmable switches, and software-defined networking. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. Thus, in addition to learning the conventional concepts in networking, we will also discuss how to adapt these concepts to large-scale networks. These discussions will hopefully help deepen our understanding of networking technologies. This course includes lectures and system programming projects. 
 
 - Instructor: Minlan Yu 
-- Lecture time: T/TH 11:45-12:30
+- Lecture time: T/TH 11:15-12:30am
 - Lecture location: SEC 1.402
 - Section time: Fridays 2:15-3:15 pm every other week (available on demand for extension students). Please see the syllabus below for the actual dates for sections.
 - Section location: SEC 1.402
-- Minlan Office hours: Tue 11-12, SEC 4.415
+- Minlan Office hours: Tue 10-11, SEC 4.415
 - TF and office hours:
   * Howard Huang: howardhuang@college.harvard.edu
   * Raj Joshi: rajjoshi@g.harvard.edu
