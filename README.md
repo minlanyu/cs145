@@ -66,7 +66,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 4 
 * Feb 18 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3) 
 * Feb 20 Thu class: Network layer: Data plane: IP forwarding (K&R 4.1-4.3, 6.4)  
-* Feb 21 Fri section: Routing protocols (2-3pm)
+* Feb 21 Fri section: Routing protocols
 
 ### Week 5 
 * Feb 25 Tue class: Discovery service
